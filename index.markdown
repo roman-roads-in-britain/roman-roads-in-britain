@@ -15,15 +15,15 @@ Click on the maps to explore the different paths of the Roman Empire. Each of th
 
 <br>
 
-<a href src="https://mads709.github.io/roman-road-comp.github.io/"> <img src="home-page/photos/web-map-image1.PNG" alt="photo" width= "600px"></a>
+<a href="https://mads709.github.io/roman-road-comp.github.io/"> <img src="home-page/photos/web-map-image1.PNG" alt="photo" width= "600px"></a>
 
-### <a href src="https://mads709.github.io/roman-road-comp.github.io/"> Click Here for Interactive Map! </a>
+### <a href="https://mads709.github.io/roman-road-comp.github.io/"> Click Here for Interactive Map! </a>
 
 
 <br>
 
 ## **Modern Highway Map**
 
-<img src="home-page/photos/web-map2.PNG" alt="photo" width= "600px">
+<a href="https://mads709.github.io/mod-highway-map.github.io/"><img src="home-page/photos/web-map2.PNG" alt="photo" width= "600px"></a>
 
-### <a href src="https://mads709.github.io/mod-highway-map.github.io/"> Click Here for Interactive Map! </a>
+### <a href="https://mads709.github.io/mod-highway-map.github.io/"> Click Here for Interactive Map! </a>
