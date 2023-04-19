@@ -1,5 +1,5 @@
 ---
-title: Roman Roads Across Roman Britain
+title: Roman Roads Across Britain
 exclude: true
 layout: home
 ---
@@ -8,7 +8,7 @@ Click on the maps to explore the different paths of the Roman Empire. Each of th
 
 <br>
 
-## **Roman roads of Roman Britain**
+## **Roman roads of Britain**
 
 |:-------------------------:|:-------------------------:|
 |<a href="{% link map-analysis/roman-britain-map-lcps.md %}"> Click Here for more Information! </a> <img width="1604" alt="photo" src="map-analysis/maps/eng-map-all-lcps2.png"> | <a href="https://mads709.github.io/roman-road-comp.github.io/"> Click Here for Interactive Map! </a> <a href="https://mads709.github.io/roman-road-comp.github.io/"><img width="1604" alt="photo" src="home-page/photos/web-map-image1.PNG"></a> |
