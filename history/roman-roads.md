@@ -9,7 +9,9 @@ title: Background and History
 Claudius was the Roman Emperor who successfully led an invasion into England, and Aulus Plautius was the Roman general in charge of it. Julius Caesar had prepared for invasion before him, but it was Claudius who brought troops into England. They invaded around 43 CE and were a part of the Empire until the 5th century CE.
 There are a few different locations that historians and archaeologists debate over for possible departure and arrival locations in Britain. The most widely accepted place of embarkation is Boulogne, and the other possible places are from the mouths of the Somme River and Seine River. The two places they could have landed were either Richborough or Chichester, and each of these places provided different military advancements.
 
-<img width="600px" alt="photo" src="map/map-invasion2.PNG">
+<center> <img width="600px" alt="photo" src="map/map-invasion2.PNG"> </center>
+
+<br>
 
 ***Richborough***:
 If they landed in Richborough, then they took a short and more direct route to Colchester. They marched along the North Downs and crossed the Thames River near London. Then took over Colchester.

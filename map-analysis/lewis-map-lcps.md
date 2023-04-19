@@ -3,9 +3,12 @@ layout: page
 title:  "Lewis' Map with My Least Cost Paths"
 exclude: true
 ---
-<img src="maps/lewis-lcps-w-roads.png" alt="photo" width= "800px">
 
-<a href="https://mads709.github.io/lewis-web-map.github.io/"> **Click Here for Interactive Map** </a>
+<center> <img src="maps/lewis-lcps-w-roads.png" alt="photo" width= "350px"></center>
+
+<center> <a href="https://mads709.github.io/lewis-web-map.github.io/"> <b> Click Here for Interactive Map </b></a> </center>
+
+<br>
 
 This map displays the LCPs generated that were overlapped with the roads containing high betweenness scores from Lewis. This allowed for an analysis of roads that were suspected to be main roads in Roman Britain based on topographical influence versus Lewis’ roads that are main roads for transferring information across Roman Britain. Looking at the map, the turquoise lines that appear to be thicker or more prominent are the paths that have several paths overlapping. This means that based on the topography of the area those are the best paths to take between settlements based on the cost efficiency. Now there are several areas where there are these thick LCPs and no thick black lines from Lewis’ map. This leads to the conclusion that these paths were the more optimal paths to take across Roman Britain, but are not optimal for communication purposes. However, they could be more ideal paths for other purposes such as paths for trade. The paths that do overlap with the thick black lines of Lewis’ map do help to determine the use and the planning that went into these roads. These relates to Lewis’ two hypotheses he had for his research:
 
