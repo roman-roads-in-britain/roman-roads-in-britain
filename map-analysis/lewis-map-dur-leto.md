@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lewis' Map with My Least Cost Paths from Durovigutum to Letocetum"
+title:  "Least Cost Paths from Durovigutum to Letocetum"
 exclude: true
 ---
 <center> <img src="maps/lewis-duro-letoc-w-roads.png" alt="photo" width= "600px"> </center>

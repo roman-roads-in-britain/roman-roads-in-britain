@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Orengo's Map with My Least Cost Paths"
+title:  "Food Transportation Network and Topographical Influences"
 exclude: true
 ---
 <center> <img src="maps/orengo-lcps-w-roads.png" alt="photo" width= "400px"></center>

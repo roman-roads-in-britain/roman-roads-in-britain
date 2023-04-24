@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lewis' Map with My Least Cost Paths from Durovigutum to Shiptonthrope"
+title:  "Least Cost Paths from Durovigutum to Shiptonthrope"
 exclude: true
 ---
 <center> <img src="maps/lewis-duro-ship-w-roads.png" alt="photo" width= "600px"> </center>

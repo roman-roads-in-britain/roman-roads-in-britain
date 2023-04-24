@@ -2,6 +2,7 @@
 layout: page
 permalink:
 title: Method
+order: 3
 ---
 
 ### *Methodology*
@@ -31,9 +32,9 @@ needs the elevation model and friction costs of the area. The elevation model gi
 of the slope therefore stating the cost that it will take to walk between the changing elevation.
 The friction cost will help to determine the cost it takes to walk through the area as if it were
 a flat surface. For example:
-> The cost for movement in an area that is flat and swamp-like will be harder to move through
-and would cause a person to walk slower. This would have a greater cost to walk through. \\
-The cost of movement through an area that is flat with short grass, similar to a golf course,
+* The cost for movement in an area that is flat and swamp-like will be harder to move through
+and would cause a person to walk slower. This would have a greater cost to walk through.
+* The cost of movement through an area that is flat with short grass, similar to a golf course,
 would allow someone to move faster. This would have a lower cost to walk through.
 
 These two inputs give the r.walk algorithm lots of important information about the
