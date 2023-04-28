@@ -9,8 +9,8 @@ This website displays the physical and cultural influences on the Roman roads in
 
 ### **Brief Layout of the Website**
 
-* <a href="{% link about.markdown %}"> **About** </a>: This page contains information about the purpose of this project and a description of the website.
-* <a href ="{%link history/roman-roads.md %}"> **History and Background** </a>: This page contains historical context regarding Roman Britain and the roads.
+* <a href="{% link about.markdown %}"> **About**</a>: This page contains information about the purpose of this project and a description of the website.
+* <a href ="{%link history/roman-roads.md %}"> **Background and History**</a>: This page contains historical context regarding Roman Britain and the roads.
 * <a href ="{%link methodology/methods.md%}"> **Methods**</a>: This page contains information about the methods used to create the least cost paths for analysis in this project.
 * <a href ="{% link roman-britain/roman-britain.md%}"> **Roman Britain Roads**</a>: This page contains the analysis and conclusions about the physical and cultural influences on the Roman roads in Britain.
 * <a href ="{%link 3d-maps.md%}"> **Interactive Maps**<a/>: This page contains all the 3D and interactive web maps.
@@ -20,7 +20,7 @@ This website displays the physical and cultural influences on the Roman roads in
 ## **Roman roads of Britain**
 
 |:-------------------------:|:-------------------------:|
-|<a href="{% link map-analysis/roman-britain-map-lcps.md %}"> Click Here for more Information </a> <img width="1604" alt="photo" src="map-analysis/maps/eng-map-all-lcps2.png"> | <a href="https://mads709.github.io/roman-road-comp.github.io/"> Click Here for Interactive Map </a> <a href="https://mads709.github.io/roman-road-comp.github.io/"><img width="1604" alt="photo" src="home-page/photos/web-map-image1.PNG"></a> |
+|<a href="{% link map-analysis/roman-britain-map-lcps.md %}"> Click Here for more Information </a> <img width="1604" alt="photo" src="map-analysis/maps/eng-map-all-lcps2.png"> Map of Least Cost Paths | <a href="https://mads709.github.io/roman-road-comp.github.io/"> Click Here for Interactive Map </a> <a href="https://mads709.github.io/roman-road-comp.github.io/"><img width="1604" alt="photo" src="home-page/photos/web-map-image1.PNG"></a> Map of Communication and Food Transportation Routes with Least Cost Paths|
 
 
 

@@ -26,7 +26,7 @@ This map displays a smaller area of interest that is discussed in the <a href="{
 <br>
 
 ## Southern Britain
-This map displays a smaller area of interest in Southern Britain. It represents the similarity in paths influenced by topography and frquently used roads for food transportation.
+This map displays a smaller area of interest in Southern Britain. It represents the similarity in paths influenced by topography and frequently used roads for food transportation.
 <iframe width="800px" height="500px" src="https://mads709.github.io/south-3d-maps.github.io/" title="map"></iframe>
 **<a href="{% link map-analysis/eng-map-south-zoom.md %}"> Click Here for more Information </a>**
 
